@@ -1,5 +1,11 @@
 h1{
+    width: 300px;
     text-align: center;
-    color:darkgreen;
+    color: aqua;
     background-color: orangered;
+}
+
+h1:hover{
+    color: blue;
+    background-color: silver;
 }
